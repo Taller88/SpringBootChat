@@ -1,5 +1,7 @@
 # SpringBootChat
-Spring Boot를 활용한 채팅 프로그램
+
+Spring Boot를 활용한 채팅 프로그램(Clone Coding)
+
 
 * 주요 기능 
    1. 단체 채팅  
